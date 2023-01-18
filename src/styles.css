@@ -55,6 +55,13 @@ h2{
   font-size: 1.125rem;
   margin-block:.3em;
 }
+button:focus{
+   border:none !important;
+   outline:none;
+}
+
+
+
 .introPage{
   font-family: 'Karla', sans-serif;
   width:80%;
